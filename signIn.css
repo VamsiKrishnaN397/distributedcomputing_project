@@ -1,0 +1,57 @@
+label
+{
+    border-radius: 15px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+.imgcontainer
+{
+ text-align: center;
+ margin: 24px 0 12px 0;
+}
+.img.avatar
+{
+  width:30%;
+  border-radius: 50%;
+}
+form
+{
+  border: 10px solid #fff;
+  background-color: #fff;
+}
+input
+{
+  width: 100%;
+  padding:12px 20px;
+  margin : 8px 0;
+  display:inline-block;
+  border:1px solid #ccc;
+  box-sizing:border-box;
+}
+button {
+  background-color: #04AA6D;
+  color:white;
+  padding:14px 20px;
+  margin :8px 0;
+  border :none;
+  cursor:pointer;
+  width :100%;
+}
+button:hover{
+  opacity:0.8;
+}
+.login
+{
+  border-radius: 50%;
+  background-color: #fff;
+  width:50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border:3px solid #fff;
+}
+h1
+{
+  text-align: center;
+}
